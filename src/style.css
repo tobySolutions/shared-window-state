@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+canvas {
+  background-color: rgb(51, 51, 51);
+}
